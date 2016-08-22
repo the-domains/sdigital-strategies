@@ -12,3 +12,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 name: sdigital strategies
+navigation:
+  - name: About
+    url: sdigitalstrategies.com
+    type: external
